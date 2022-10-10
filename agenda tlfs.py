@@ -14,7 +14,7 @@ vTelefonos = []
 
 
 nombres=input("Dime un nombre ")
-telefonos=input ("Dime tu telefono")
+telefonos=input ("Dime tu telefono ")
 
 vNombres.append(nombres)
 vTelefonos.append(telefonos)
@@ -23,3 +23,5 @@ print(vNombres)
 print(vTelefonos)
 
 #El telefono de juan es: ejercicio casa
+
+print("El teléfono de ", vNombres , "es: ",vTelefonos,)
