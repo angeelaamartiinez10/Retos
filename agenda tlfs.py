@@ -21,3 +21,5 @@ vTelefonos.append(telefonos)
 
 print(vNombres)
 print(vTelefonos)
+
+#El telefono de juan es: ejercicio casa
