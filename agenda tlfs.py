@@ -19,8 +19,6 @@ telefonos=input ("Dime tu telefono ")
 vNombres.append(nombres)
 vTelefonos.append(telefonos)
 
-print(vNombres)
-print(vTelefonos)
 
 #El telefono de juan es: ejercicio casa
 
